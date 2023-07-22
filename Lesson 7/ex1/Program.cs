@@ -7,7 +7,6 @@ arrayında 2 rəqəm var)
 3.Kiçikdən böyüyə siralanmış array - i böyükdən kiçiyə sıralayan alqoritm.
 4.Verilmish ededin bolenleri sayini tapan algorithm
 
-Sure, here is the translation of the given algorithm descriptions into English:
 
 1. Print the number of digits in an array of numbers (Example: In the array {1, 77, 6, 144}, there are 2 digits).
 
