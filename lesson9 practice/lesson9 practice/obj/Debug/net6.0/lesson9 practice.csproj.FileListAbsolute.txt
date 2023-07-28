@@ -1,0 +1,15 @@
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\bin\Debug\net6.0\lesson9 practice.exe
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\bin\Debug\net6.0\lesson9 practice.deps.json
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\bin\Debug\net6.0\lesson9 practice.runtimeconfig.json
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\bin\Debug\net6.0\lesson9 practice.dll
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\bin\Debug\net6.0\lesson9 practice.pdb
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\obj\Debug\net6.0\lesson9 practice.csproj.AssemblyReference.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\obj\Debug\net6.0\lesson9 practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\obj\Debug\net6.0\lesson9 practice.AssemblyInfoInputs.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\obj\Debug\net6.0\lesson9 practice.AssemblyInfo.cs
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\obj\Debug\net6.0\lesson9 practice.csproj.CoreCompileInputs.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\obj\Debug\net6.0\lesson9 practice.dll
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\obj\Debug\net6.0\refint\lesson9 practice.dll
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\obj\Debug\net6.0\lesson9 practice.pdb
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\obj\Debug\net6.0\lesson9 practice.genruntimeconfig.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson9 practice\lesson9 practice\obj\Debug\net6.0\ref\lesson9 practice.dll
