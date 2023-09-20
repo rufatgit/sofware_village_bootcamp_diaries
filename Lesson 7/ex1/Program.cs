@@ -5,9 +5,16 @@ arrayında 2 rəqəm var)
 
 2.Arraydaki təkrarlanan elemetləri ekrana çıxaran alqoritm qurun. Misal [1,2,3,2,5,3]=>output => 2,3
 3.Kiçikdən böyüyə siralanmış array - i böyükdən kiçiyə sıralayan alqoritm.
-4.Verilmish ededin bolenleri sayini tapan algorithm*/
+4.Verilmish ededin bolenleri sayini tapan algorithm
 
 
+1. Print the number of digits in an array of numbers (Example: In the array {1, 77, 6, 144}, there are 2 digits).
+
+2. Create an algorithm to print the repeated elements in an array. Example: For [1, 2, 3, 2, 5, 3], the output should be 2, 3.
+
+3. Create an algorithm to sort an array sorted from smallest to largest in descending order.
+
+4. Algorithm to find the number of divisors of a given number. */
 
 public class Program
 {
