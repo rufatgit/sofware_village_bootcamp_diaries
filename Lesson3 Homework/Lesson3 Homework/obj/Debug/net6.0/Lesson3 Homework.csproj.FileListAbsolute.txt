@@ -1,0 +1,15 @@
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\bin\Debug\net6.0\Lesson3 Homework.exe
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\bin\Debug\net6.0\Lesson3 Homework.deps.json
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\bin\Debug\net6.0\Lesson3 Homework.runtimeconfig.json
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\bin\Debug\net6.0\Lesson3 Homework.dll
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\bin\Debug\net6.0\Lesson3 Homework.pdb
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\obj\Debug\net6.0\Lesson3 Homework.csproj.AssemblyReference.cache
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\obj\Debug\net6.0\Lesson3 Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\obj\Debug\net6.0\Lesson3 Homework.AssemblyInfoInputs.cache
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\obj\Debug\net6.0\Lesson3 Homework.AssemblyInfo.cs
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\obj\Debug\net6.0\Lesson3 Homework.csproj.CoreCompileInputs.cache
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\obj\Debug\net6.0\Lesson3 Homework.dll
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\obj\Debug\net6.0\refint\Lesson3 Homework.dll
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\obj\Debug\net6.0\Lesson3 Homework.pdb
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\obj\Debug\net6.0\Lesson3 Homework.genruntimeconfig.cache
+C:\MAIN\C#\Bakcend BootCamp\Lesson3 Homework\Lesson3 Homework\obj\Debug\net6.0\ref\Lesson3 Homework.dll
