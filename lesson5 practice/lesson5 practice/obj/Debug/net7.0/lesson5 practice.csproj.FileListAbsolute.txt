@@ -1,0 +1,15 @@
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\bin\Debug\net7.0\lesson5 practice.exe
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\bin\Debug\net7.0\lesson5 practice.deps.json
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\bin\Debug\net7.0\lesson5 practice.runtimeconfig.json
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\bin\Debug\net7.0\lesson5 practice.dll
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\bin\Debug\net7.0\lesson5 practice.pdb
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\obj\Debug\net7.0\lesson5 practice.csproj.AssemblyReference.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\obj\Debug\net7.0\lesson5 practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\obj\Debug\net7.0\lesson5 practice.AssemblyInfoInputs.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\obj\Debug\net7.0\lesson5 practice.AssemblyInfo.cs
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\obj\Debug\net7.0\lesson5 practice.csproj.CoreCompileInputs.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\obj\Debug\net7.0\lesson5 practice.dll
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\obj\Debug\net7.0\refint\lesson5 practice.dll
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\obj\Debug\net7.0\lesson5 practice.pdb
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\obj\Debug\net7.0\lesson5 practice.genruntimeconfig.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson5 practice\lesson5 practice\obj\Debug\net7.0\ref\lesson5 practice.dll
