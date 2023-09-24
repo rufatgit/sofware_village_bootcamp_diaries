@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lesson4 homework/1.0.0": {
+        "runtime": {
+          "lesson4 homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lesson4 homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
