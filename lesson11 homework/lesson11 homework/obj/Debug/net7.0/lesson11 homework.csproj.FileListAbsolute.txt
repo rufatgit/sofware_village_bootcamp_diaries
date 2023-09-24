@@ -1,0 +1,15 @@
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\bin\Debug\net7.0\lesson11 homework.exe
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\bin\Debug\net7.0\lesson11 homework.deps.json
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\bin\Debug\net7.0\lesson11 homework.runtimeconfig.json
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\bin\Debug\net7.0\lesson11 homework.dll
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\bin\Debug\net7.0\lesson11 homework.pdb
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\obj\Debug\net7.0\lesson11 homework.csproj.AssemblyReference.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\obj\Debug\net7.0\lesson11 homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\obj\Debug\net7.0\lesson11 homework.AssemblyInfoInputs.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\obj\Debug\net7.0\lesson11 homework.AssemblyInfo.cs
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\obj\Debug\net7.0\lesson11 homework.csproj.CoreCompileInputs.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\obj\Debug\net7.0\lesson11 homework.dll
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\obj\Debug\net7.0\refint\lesson11 homework.dll
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\obj\Debug\net7.0\lesson11 homework.pdb
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\obj\Debug\net7.0\lesson11 homework.genruntimeconfig.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson11 homework\lesson11 homework\obj\Debug\net7.0\ref\lesson11 homework.dll
