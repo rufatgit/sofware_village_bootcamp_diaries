@@ -1,0 +1,15 @@
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\bin\Debug\net7.0\lesson13 practice.exe
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\bin\Debug\net7.0\lesson13 practice.deps.json
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\bin\Debug\net7.0\lesson13 practice.runtimeconfig.json
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\bin\Debug\net7.0\lesson13 practice.dll
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\bin\Debug\net7.0\lesson13 practice.pdb
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\obj\Debug\net7.0\lesson13 practice.csproj.AssemblyReference.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\obj\Debug\net7.0\lesson13 practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\obj\Debug\net7.0\lesson13 practice.AssemblyInfoInputs.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\obj\Debug\net7.0\lesson13 practice.AssemblyInfo.cs
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\obj\Debug\net7.0\lesson13 practice.csproj.CoreCompileInputs.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\obj\Debug\net7.0\lesson13 practice.dll
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\obj\Debug\net7.0\refint\lesson13 practice.dll
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\obj\Debug\net7.0\lesson13 practice.pdb
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\obj\Debug\net7.0\lesson13 practice.genruntimeconfig.cache
+C:\MAIN\C#\Bakcend BootCamp\lesson13 practice\lesson13 practice\obj\Debug\net7.0\ref\lesson13 practice.dll
